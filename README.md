@@ -64,25 +64,29 @@ ERC-20 토큰 생성 및 배포
              _mint(msg.sender, 1000000 * 10 ** decimals());
              }
         }
-        ![](jycoin_solidity.jpg)
+ 
+
+       ![](images/jycoin_solidity.jpg)
+
+
         msg.sender: 배포자의 MetaMask 주소.
         _mint: 지정된 주소에 토큰을 발행.
         
-    3. compile jycoin.sol 버튼을 클릭하여 컴파일.
+    4. compile jycoin.sol 버튼을 클릭하여 컴파일.
 
-    4. 컨트랙트 배포 
+    5. 컨트랙트 배포 
         Deploy & Run Transaction 탭으로 이동
         환경을 injected Provider - MetaMask로 설정.
         Metamask와 Remix를 연결하고, Sepolia 테스트넷으로 전환되었는지 확인
         Deploy 버튼을 클릭하여 컨트랙트를 배포
         ![계약배포.jpg](attachment:5e36c900-737f-4993-a026-abba25d22d2f:계약배포.jpg)
 
-    5. 배포된 컨트랙트 확인
+    6. 배포된 컨트랙트 확인
 
-    6. Sepolia 블록 탐색기에서 확인
+    7. Sepolia 블록 탐색기에서 확인
     ![Etherscan.jpg](attachment:19812d0f-b679-4582-a02d-eb0d2bd21549:Etherscan.jpg)
 
-    7. jycoin 로고 추가
+    8. jycoin 로고 추가
         ![jycoin logo.webp](attachment:0e7efe14-da8f-4485-b880-21025b1109f4:jycoin_logo.webp)
         
         []()
