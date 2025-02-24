@@ -87,4 +87,4 @@ ERC-20 토큰 생성 및 배포
     ![](images/Etherscan.jpg)
 
     8. jycoin 로고 추가
-    ![](images/jycoin-logo.jpg)
+    ![](images/logo.jpeg)
