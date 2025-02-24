@@ -64,7 +64,7 @@ ERC-20 토큰 생성 및 배포
              _mint(msg.sender, 1000000 * 10 ** decimals());
              }
         }
-        ![jycoin_solidity.jpg](attachment:b167c21c-dd74-4d8e-8b79-0ab98ef47f26:jycoin_solidity.jpg)
+        ![](jycoin_solidity.jpg)
         msg.sender: 배포자의 MetaMask 주소.
         _mint: 지정된 주소에 토큰을 발행.
         
